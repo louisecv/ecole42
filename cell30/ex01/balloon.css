@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    background-color: black;
+}
+
+#DIV{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: rgb(255, 0, 0);
+    position: absolute;
+    top: 40%;
+    left: 50%;
+}

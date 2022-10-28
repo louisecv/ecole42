@@ -1,0 +1,49 @@
+.parallax {
+
+height: 100vh;
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.le1 {
+  background-image: url(https://medias.pourlascience.fr/api/v1/images/view/622229588fe56f31762ae067/wide_1300/image.jpg);
+
+}
+
+.leparallax {
+  background-color: black;
+}
+
+.le3 {
+background-image: url(https://www.science-et-vie.com/wp-content/uploads/scienceetvie/2022/03/3-decouvertes-etonnantes-sur-vol-des-papillons-morphos.jpg);
+
+}
+
+.text1 {
+  color: beige;
+  font-style: italic;
+  font-size: xx-large;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+.texte2 {
+  text-align: center;
+  color: white;
+  font-size: xx-large;
+  position: absolute;
+  top: 150%;
+  left: 50%;
+}
+
+.text3 {
+  text-align: center;
+  color: white;
+  font-size: xx-large;
+  position: absolute;
+  top: 250%;
+  left: 50%;
+}

@@ -1,0 +1,27 @@
+*{
+    background-color: blanchedalmond;
+
+}
+
+#input1{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
+#select{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#input2{
+    position: absolute;
+    top: 40%;
+    left: 45%;
+}
+#tryme{
+    position: absolute;
+    top: 40%;
+    left: 55%;
+}
